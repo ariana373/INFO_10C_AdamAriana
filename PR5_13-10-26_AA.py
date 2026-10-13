@@ -3,3 +3,4 @@ b = input("Text 2: ")
 # Sunt identice?
 # Au aceeași lungime?
 print (bool(len(a)) == (len (b)))
+print (bool(a)==(b))
