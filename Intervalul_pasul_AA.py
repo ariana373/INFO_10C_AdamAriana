@@ -1,0 +1,6 @@
+a = int(input('a= '))
+b = int(input('b= '))
+x = int(input('x= '))
+r = range(a, b+1, 2)
+print (x in r)
+print (list(r))
